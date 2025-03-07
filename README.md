@@ -43,7 +43,7 @@ bash
 Insert Code
 Run
 Copy code
-git clone https://github.com/[your-username]/POLCATIP.git
+git clone https://github.com/I-Kail-I/our-travel.git
 cd POLCATIP
 # Open files in browser:
 start index.html
